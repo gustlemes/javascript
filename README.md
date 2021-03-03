@@ -1,4 +1,2 @@
 # javascript
- estudos sobre linguagem javascript 
-
- (ainda não iniciado)
+ Aqui estão alguns dos meus exercícios e desafios realizados enquanto me aventuro pela linguagem Javascript.
